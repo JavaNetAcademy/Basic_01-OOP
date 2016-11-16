@@ -16,11 +16,14 @@
 
 ## OOP
 [Java OOP tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/),
+
 [Object oriented programming concepts](http://beginnersbook.com/java-tutorial-for-beginners-with-examples/),
-[AutoBoxing](http://beginnersbook.com/2014/09/java-autoboxing-and-unboxing-with-examples/),
 
 Interface:[Elmélet](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html),
+
 Öröklés:[elmélet](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)	
+
+[AutoBoxing](http://beginnersbook.com/2014/09/java-autoboxing-and-unboxing-with-examples/),
 
 ### Java API:
 [Object osztály](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html)
@@ -29,3 +32,4 @@ Interface:[Elmélet](https://docs.oracle.com/javase/tutorial/java/IandI/createin
 ##Java Collections Framework
 [Oracle tutorial](https://docs.oracle.com/javase/tutorial/collections/TOC.html)
 [beginnersbook.com](http://beginnersbook.com/java-collections-tutorials/)
+Generics:[elmélet](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
