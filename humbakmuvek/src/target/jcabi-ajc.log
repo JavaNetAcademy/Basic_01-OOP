@@ -1,0 +1,169 @@
+Tue Apr 18 21:38:34 CEST 2017
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+<Unknown> [warning] Found @DeclareAnnotation while current release does not support it (see 'org.aspectj.weaver.bcel.AtAjAttributes')
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22.6\jcabi-aspects-0.22.6-jar-with-dependencies.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] can not build thisJoinPoint lazily for this advice since it has no suitable guard [Xlint:noGuardForLazyTjp]
+	
+<Unknown> [warning] Found @DeclareAnnotation while current release does not support it (see 'org.aspectj.weaver.bcel.AtAjAttributes')
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:63 [warning] can not implement lazyTjp on this joinpoint method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.entityList()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.entityList())' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:63) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:71 [warning] can not implement lazyTjp on this joinpoint method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.idnemeList()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.idnemeList())' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:71) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:83 [warning] can not implement lazyTjp on this joinpoint method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.nemedescriptionList()) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.nemedescriptionList())' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:83) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:95 [warning] can not implement lazyTjp on this joinpoint method-execution(hu.javagladiators.example.sport.datamodel.Championship hu.javagladiators.example.sport.resources.admin.ChampionshipREST.findById(int)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(hu.javagladiators.example.sport.datamodel.Championship hu.javagladiators.example.sport.resources.admin.ChampionshipREST.findById(int))' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:95) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:104 [warning] can not implement lazyTjp on this joinpoint method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.save(hu.javagladiators.example.sport.viewmodel.championship.ChampionshipWithIDsPOJO)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.save(hu.javagladiators.example.sport.viewmodel.championship.ChampionshipWithIDsPOJO))' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:104) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:115 [warning] can not implement lazyTjp on this joinpoint method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.getEventByChampionship(int)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(java.util.List hu.javagladiators.example.sport.resources.admin.ChampionshipREST.getEventByChampionship(int))' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:115) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:135 [warning] can not implement lazyTjp on this joinpoint method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.addSport(hu.javagladiators.example.sport.viewmodel.championship.ChampionshipSportSpecializationIDPOJO)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.addSport(hu.javagladiators.example.sport.viewmodel.championship.ChampionshipSportSpecializationIDPOJO))' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:135) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+hu\javagladiators\example\sport\resources\admin\ChampionshipREST.java:152 [warning] can not implement lazyTjp on this joinpoint method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.addRound(hu.javagladiators.example.sport.viewmodel.championship.RoundPOJO)) because around advice is used [Xlint:canNotImplementLazyTjp]
+	
+	see also: C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class::0
+Join point 'method-execution(hu.javagladiators.example.sport.viewmodel.system.MessagePOJO hu.javagladiators.example.sport.resources.admin.ChampionshipREST.addRound(hu.javagladiators.example.sport.viewmodel.championship.RoundPOJO))' in Type 'hu.javagladiators.example.sport.resources.admin.ChampionshipREST' (ChampionshipREST.java:152) advised by around advice from 'com.jcabi.aspects.aj.MethodLogger' (jcabi-aspects-0.22.jar!MethodLogger.class(from MethodLogger.java))
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\lookup\OwningClassSupportForFieldBindings.class:58 [warning] advice defined in org.aspectj.ajdt.internal.compiler.lookup.OwningClassSupportForFieldBindings has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\ImmutabilityChecker.class [warning] advice defined in com.jcabi.aspects.aj.ImmutabilityChecker has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodScheduler.class [warning] advice defined in com.jcabi.aspects.aj.MethodScheduler has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\lookup\AnonymousClassPublisher.class:34 [warning] advice defined in org.aspectj.ajdt.internal.compiler.lookup.AnonymousClassPublisher has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\parser\AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions.class:46 [warning] advice defined in org.aspectj.ajdt.internal.compiler.parser.AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\parser\AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions.class:50 [warning] advice defined in org.aspectj.ajdt.internal.compiler.parser.AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\parser\AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions.class:57 [warning] advice defined in org.aspectj.ajdt.internal.compiler.parser.AllowAssertAndEnumAsIdentifierTokensInPointcutExpressions has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\SingleException.class [warning] advice defined in com.jcabi.aspects.aj.SingleException has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\lookup\WarnOnSwallowedException.class:32 [warning] advice defined in org.aspectj.ajdt.internal.compiler.lookup.WarnOnSwallowedException has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodInterrupter.class [warning] advice defined in com.jcabi.aspects.aj.MethodInterrupter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\QuietExceptionsLogger.class [warning] advice defined in com.jcabi.aspects.aj.QuietExceptionsLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\Parallelizer.class [warning] advice defined in com.jcabi.aspects.aj.Parallelizer has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\lookup\OwningClassSupportForMethodBindings.class:70 [warning] advice defined in org.aspectj.ajdt.internal.compiler.lookup.OwningClassSupportForMethodBindings has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodLogger.class [warning] advice defined in com.jcabi.aspects.aj.MethodLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\ExceptionsLogger.class [warning] advice defined in com.jcabi.aspects.aj.ExceptionsLogger has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\Repeater.class [warning] advice defined in com.jcabi.aspects.aj.Repeater has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodValidator.class [warning] advice defined in com.jcabi.aspects.aj.MethodValidator has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:69 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:75 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:93 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:97 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:102 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:106 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:110 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:114 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:118 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:122 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\org\aspectj\aspectjtools\1.8.6\aspectjtools-1.8.6.jar!org\aspectj\ajdt\internal\compiler\CompilerAdapter.class:126 [warning] advice defined in org.aspectj.ajdt.internal.compiler.CompilerAdapter has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodAsyncRunner.class [warning] advice defined in com.jcabi.aspects.aj.MethodAsyncRunner has not been applied [Xlint:adviceDidNotMatch]
+	
+C:\Users\Administrator\.m2\repository\com\jcabi\jcabi-aspects\0.22\jcabi-aspects-0.22.jar!com\jcabi\aspects\aj\MethodCacher.class [warning] advice defined in com.jcabi.aspects.aj.MethodCacher has not been applied [Xlint:adviceDidNotMatch]
+	

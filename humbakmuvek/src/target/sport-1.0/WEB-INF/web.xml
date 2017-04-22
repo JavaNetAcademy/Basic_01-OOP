@@ -1,0 +1,36 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>SPORT</display-name>
+  
+  <welcome-file-list>
+    <welcome-file>/auth/index.html</welcome-file>
+  </welcome-file-list>
+
+
+  <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>REST service</web-resource-name>
+        <url-pattern>/rest/*</url-pattern>
+        <http-method>POST</http-method>
+    </web-resource-collection>
+    <web-resource-collection>
+        <web-resource-name>WEB UI</web-resource-name>
+        <url-pattern>/html/*</url-pattern>
+        <http-method>POST</http-method>
+        <http-method>GET</http-method>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>sportolo</role-name>
+      <role-name>csapat</role-name>
+      <role-name>manager</role-name>
+      <role-name>user</role-name>
+    </auth-constraint>
+  </security-constraint>
+
+  <login-config>
+    <auth-method>BASIC</auth-method>    
+    <form-login-config>
+      <form-login-page>/login.jsp</form-login-page>
+      <form-error-page>/error.jsp</form-error-page>
+    </form-login-config>
+  </login-config>
+</web-app>
