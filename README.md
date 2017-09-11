@@ -51,6 +51,6 @@
 [beginnersbook.com](http://beginnersbook.com/java-collections-tutorials/)
 Generics:[elmélet](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 
-## Minta alkalmazás
+## Minta alkalmazás (Heroes Of Empires)
 [Objektumok](https://drive.google.com/a/mozilla.hu/file/d/0B1KKcFVZjEOjNXBiZHR3cGFVU0U/view?usp=sharing)
 
