@@ -17,7 +17,7 @@
 ## Alapvető nyelvi elemek
 [Változók](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 [Primitív tipusok](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-[Tömbök] (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+[Tömbök](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 ## Operátorok
 [Operátorok](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
@@ -30,15 +30,15 @@
 [if-then-else](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 [switch](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
 [for](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html)
-[ugró műveletek] (https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
+[ugró műveletek](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 
 ## OOP
 [Koncepció](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 [Java OOP tutorial](https://docs.oracle.com/javase/tutorial/java/javaOO/),
 
-Interface:[Elmélet](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html),
+[Interface](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html),
 
-Öröklés:[elmélet](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)	
+[Öröklés](https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html)	
 
 [AutoBoxing](http://beginnersbook.com/2014/09/java-autoboxing-and-unboxing-with-examples/),
 
