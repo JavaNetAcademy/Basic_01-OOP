@@ -1,7 +1,7 @@
 # Nyelvi alapok
 
 ## Bemutatkozás
-[Java, miért és hogyan?](http://prezi.com/ojdkfr2pyuxs/?utm_campaign=share&utm_medium=copy)
+[Java, miért és hogyan?](http://krisztian666.github.io/javabevezeto/00.html)
  
 ## Java működése
 [Működési alapok](https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html),
@@ -45,11 +45,6 @@
 ### Java API:
 [Object osztály](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html)
 
-
-## Java Collections Framework
-[Oracle tutorial](https://docs.oracle.com/javase/tutorial/collections/TOC.html)
-[beginnersbook.com](http://beginnersbook.com/java-collections-tutorials/)
-Generics:[elmélet](https://docs.oracle.com/javase/tutorial/extra/generics/index.html)
 
 ## Minta alkalmazás (Heroes Of Empires)
 [Objektumok](https://drive.google.com/a/mozilla.hu/file/d/0B1KKcFVZjEOjNXBiZHR3cGFVU0U/view?usp=sharing)
