@@ -2,8 +2,6 @@
  */
 package hu.javagladiators.app.hero.model;
 
-import java.util.Objects;
-
 /**
  * @author krisztian
  */

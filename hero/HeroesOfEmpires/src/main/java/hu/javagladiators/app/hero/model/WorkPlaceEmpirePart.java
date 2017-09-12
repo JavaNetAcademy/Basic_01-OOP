@@ -2,7 +2,6 @@
  */
 package hu.javagladiators.app.hero.model;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -10,7 +9,7 @@ import java.util.List;
  */
 public class WorkPlaceEmpirePart extends WorkPlace{
     private Empire empire;
-    private List<Province> provinces= new ArrayList<>();
+    private Province[] provinces= new Province[10];
 
     public Empire getEmpire() {
         return empire;
@@ -20,16 +19,12 @@ public class WorkPlaceEmpirePart extends WorkPlace{
         this.empire = empire;
     }
 
-    public List<Province> getProvinces() {
+    public Province[] getProvinces() {
         return provinces;
     }
 
-    public void setProvinces(List<Province> provinces) {
+    public void setProvinces(Province[] provinces) {
         this.provinces = provinces;
-    }
-    
-    public void addProvince(Province province) {
-        this.provinces.add(province);
     }
     
 }

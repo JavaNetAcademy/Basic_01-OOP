@@ -11,7 +11,7 @@ import java.util.List;
 public class WorkPlaceProvincePart extends WorkPlace{
     private Empire empire;
     private Province province;
-    private List<Location> locations = new ArrayList<>();
+    private Location[] locations = new Location[10];
 
     public Empire getEmpire() {
         return empire;
@@ -29,16 +29,12 @@ public class WorkPlaceProvincePart extends WorkPlace{
         this.province = province;
     }
 
-    public List<Location> getLocations() {
+    public Location[] getLocations() {
         return locations;
     }
 
-    public void setLocations(List<Location> locations) {
+    public void setLocations(Location[] locations) {
         this.locations = locations;
-    }
-    
-    public void addLocation(Location location) {
-        this.locations.add(location);
     }
     
 }

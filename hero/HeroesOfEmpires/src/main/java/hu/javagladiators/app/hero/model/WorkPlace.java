@@ -3,7 +3,6 @@
 package hu.javagladiators.app.hero.model;
 
 import java.util.Date;
-import java.util.List;
 
 /**
  * @author krisztian
@@ -60,6 +59,12 @@ public abstract class WorkPlace {
 
     public void setType(AdministratorType type) {
         this.type = type;
+    }
+    
+    public boolean isActive(Date pDate){
+        return (pDate.after(getValidityStart()) && pDate.before(getValidityEnd()))
+                || pDate.equals(getValidityEnd()) 
+                || pDate.equals(getValidityStart());
     }
 
     @Override
