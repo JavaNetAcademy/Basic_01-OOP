@@ -1,10 +1,9 @@
 # Nyelvi alapok
 
-## Bemutatkozás
-[Java, miért és hogyan?](http://krisztian666.github.io/javabevezeto/00.html)
- 
-## Java működése
-[Működési alapok](https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html),
+[Java működése](https://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html)
+
+[Nyelvi specifikáció](https://docs.oracle.com/javase/specs/index.html)
+
 
 ## Java memória kezelés
 [Java Memoria modell](http://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java),
